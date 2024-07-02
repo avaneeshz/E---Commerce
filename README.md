@@ -121,15 +121,11 @@ To make the most of the Luv2Shop website, follow these steps:
 
 You can preview Luv2Shop live demo at [luv2shop-ecommerce](https://luv2shop-ecommerce.netlify.app). The demo provides a hands-on experience of the website's features and functionality.
 
-## Video Demonstration
-
-Watch a video demonstration of the Luv2Shop project [here](https://www.youtube.com/watch?v=jLlTbAgyTbQ).
-
 ## Contact Information
 
 If you have any questions, suggestions, or just want to get in touch, you can reach us at:
 
-- Email: [awintiahmed2017@gmail.com](mailto:awintiahmed2017@gmail.com)
-- LinkedIn: [Ahmed Aouinti](https://www.linkedin.com/in/ahmed-aouinti-8a6974146/)
+- Email: [ava.keshri@gmail.com](mailto:ava.keshri@gmail.com)
+- LinkedIn: [Avaneesh Om](https://www.linkedin.com/in/avaneesh-om-148720171/)
 
 We appreciate your interest and look forward to your contributions and feedback!
